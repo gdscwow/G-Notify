@@ -23,7 +23,7 @@
     "mongoose": "^6.0.5",
     "morgan": "^1.10.0",
     "multer": "^1.4.3",
-    "nuxt": "^2.15.7",
+    "nuxt": "^3.0.0",
     "nuxt-highlightjs": "^1.0.1",
     "puppeteer": "^10.4.0",
     "read-excel-file": "^5.2.25",
